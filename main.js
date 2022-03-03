@@ -147,3 +147,69 @@
 // else{
 //   console.log('0');
 // }
+
+
+// let n = 23;
+
+// let a,b;
+
+// a = Math.floor(n /10 % 10);
+// b = Math.floor(n%10)
+
+// if (n >= 10 && n<=99){
+//   if (a % 2 !=0 && b % 2 !=0){
+//     console.log(a+b);
+//   }
+//   else if (a % 2 == 0 && b % 2 != 0){
+//     console.log(b);
+//   }
+//   else if (a % 2 !=0 && b % 2 == 0){
+//     console.log(a);
+//   }
+//   else if (a == b){
+//     console.log('Teng');
+//   }
+// }
+
+// let n = 153;
+
+// let a,b,c,d;
+
+// a = Math.floor(n /100);
+// b = Math.floor(n / 10 % 10)
+// c = Math.floor(n % 10)
+
+
+
+// if (n >= 100 && n<=999){
+//   if (a % 2 !=0 && b % 2 !=0 && c % 2 != 0){
+//     console.log(a+b+c);
+//   }
+//   else if (a % 2 == 0 && b % 2 == 0 && c % 2 ==0){
+//     console.log('Hamasi juft son');
+//   }
+//   else if (a % 2 !=0 && b % 2 == 0 && c % 2 ==0){
+//     console.log(a);
+//   }
+//   else if (a % 2 !=0 && b % 2 != 0 && c % 2 ==0){
+//     console.log(a+b);
+//   }
+//   else if (a % 2 ==0 && b % 2 != 0 && c % 2 ==0){
+//     console.log(b);
+//   }
+//   else if (a % 2 ==0 && b % 2 != 0 && c % 2 !=0){
+//     console.log(b+c);
+//   }
+//   else if (a % 2 !=0 && b % 2 == 0 && c % 2 !=0){
+//     console.log(a+c);
+//   }
+//   else if (a % 2 ==0 && b % 2 == 0 && c % 2 !=0){
+//     console.log(c);
+//   }
+//   else if (a == b){
+//     console.log('Teng');
+//   }
+// }
+
+
+// 

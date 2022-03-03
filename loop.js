@@ -158,9 +158,80 @@
 // console.log(c);
 
 
+// let a = 2;
+
+// if (a % 3 == 0){
+//   console.log('Fizz');
+// }
+// else if (a % 5 == 0 && a % 3 != 0){
+//   console.log('Buzz');
+// }
+// else if (a % 3 ==0 && a % 5 == 0){
+//   console.log('Fizzbuzz');
+// }
 
 
 
 
 
+// FOR 36
+
+// let n = 4;
+// let k = 2;
+// let sum = 0;
+
+// for (let i = 1; i <= n; i++){
+//   sum += i**k;
+// }
+// console.log(sum);
+
+
+// FOR 37
+
+// let n = 4;
+// let sum = 0;
+
+// for (let i = 1; i <= n; i++){
+//   sum += i**i;
+// }
+// console.log(sum);
+
+
+// FOR 38
+
+// let n = 5;
+// let sum = 0;
+
+// for (let i = 1; i<=n; i++){
+//   let k = 1;
+//   for(let j = n; j >= i; j--){
+//     k*=i;
+//   }
+//   sum += k
+// }
+// console.log(sum);
+
+
+// FOR 39
+
+  // let a = 3;
+  // let b = 6;
+
+  // for (let i = a; i <= b; i++){
+  //   for (let j = 1; j <= i; j++){
+  //     console.log(i);
+  //   }
+  // }
+
+
+// FOR 40
+
+    // let a = 3;
+    // let b = 6;
+
+    // for (let i = a; i <= b; i++){
+    //   for (let j = a; j <= i; j++){
+    //     console.log(i);
+    //   }
+    // }
 
